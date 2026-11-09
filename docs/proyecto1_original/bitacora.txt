@@ -1,0 +1,42 @@
+2026-10-11 00:43:46 - Producto agregado: VG0015 - FC26
+2026-10-11 00:44:43 - Venta registrada: VG0015 - FC26 - Cantidad: 3 - Total: Q1680.00
+2026-10-11 00:45:36 - Inventario consultado y ordenado
+2026-10-11 00:47:44 - Producto agregado: VG0017 - Nintendo64
+2026-10-11 00:56:54 - Inventario consultado y ordenado
+2026-10-11 01:09:32 - Inventario consultado y ordenado
+2026-10-11 01:14:21 - Producto agregado: VG0018 - Control Wii
+2026-10-11 01:16:08 - Venta registrada: VG0004 - God of War Ragnarok - Cantidad: 2 - Total: Q900.00
+2026-10-11 01:18:35 - Producto agregado: VG0019 - Mortal Kombat
+2026-10-11 01:20:39 - Venta registrada: VG0019 - Mortal Kombat - Cantidad: 4 - Total: Q2480.00
+2026-10-11 01:35:45 - Venta registrada: VG0006 - Spider-Man 2 - Cantidad: 1 - Total: Q400.00
+2026-10-11 01:38:49 - Venta registrada: VG0009 - Teclado Mecanico RGB - Cantidad: 1 - Total: Q500.00
+2026-10-11 01:45:35 - Inventario consultado y ordenado
+2026-10-11 02:12:04 - Inventario consultado y ordenado
+2026-10-11 02:12:20 - Inventario consultado y ordenado
+2026-10-11 02:15:02 - Venta registrada: VG0019 - Mortal Kombat - Cantidad: 1 - Total: Q620.00
+2026-10-11 02:15:45 - Inventario consultado y ordenado
+2026-10-11 02:23:21 - Inventario consultado y ordenado
+2026-10-11 09:12:37 - Inventario consultado y ordenado
+2026-10-11 09:38:39 - Producto agregado: VG0020 - Atari
+2026-10-11 09:39:11 - Venta registrada: VG0001 - PlayStation 5 - Cantidad: 2 - Total: Q9000.00
+2026-10-11 09:39:40 - Reabastecimiento: VG0001, unidades agregadas: 12
+2026-10-11 09:40:05 - Reabastecimiento: VG0010, unidades agregadas: 3
+2026-10-11 09:44:24 - Inventario consultado y ordenado
+2026-10-11 09:44:49 - Venta registrada: VG0006 - Spider-Man 2 - Cantidad: 9 - Total: Q3600.00
+2026-10-11 09:45:15 - Reabastecimiento: VG0006, unidades agregadas: 22
+2026-10-11 09:45:23 - Inventario consultado y ordenado
+2026-10-11 09:46:17 - Inventario consultado y ordenado
+2026-10-11 10:21:42 - Inventario consultado y ordenado
+2026-10-11 10:22:23 - Producto agregado: VG0025 - Rachet
+2026-10-11 10:22:39 - Inventario consultado y ordenado
+2026-10-11 10:23:10 - Venta registrada: VG0025 - Rachet - Cantidad: 3 - Total: Q450.00
+2026-10-11 10:26:30 - Venta registrada: VG0025 - Rachet - Cantidad: 1 - Total: Q150.00
+2026-10-11 10:26:57 - Reabastecimiento: VG0025, unidades agregadas: 10
+2026-10-11 19:51:21 - Venta registrada: VG0001 - PlayStation 5 - Cantidad: 1 - Total: Q4500.00
+2026-10-11 19:51:48 - Inventario consultado y ordenado
+2026-10-11 19:53:09 - Venta registrada: VG0001 - PlayStation 5 - Cantidad: 11 - Total: Q49500.00
+2026-10-11 19:53:27 - Reabastecimiento: VG0001, unidades agregadas: 5
+2026-10-11 19:53:37 - Inventario consultado y ordenado
+2026-10-11 20:58:56 - Producto agregado: VG0030 - Gran Turismo
+2026-10-11 21:01:46 - Inventario consultado y ordenado
+2026-10-11 21:08:36 - Reabastecimiento: VG0001, unidades agregadas: 6

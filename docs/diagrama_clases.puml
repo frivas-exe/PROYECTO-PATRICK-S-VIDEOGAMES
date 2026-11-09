@@ -1,0 +1,89 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+abstract class ReglaNegocio {
+  +aplicar(inventario)
+}
+
+class AlertaStock {
+  +aplicar(inventario)
+}
+
+class AlertaStockCritico {
+  +aplicar(inventario)
+}
+
+class Producto {
+  -__codigo
+  -__nombre
+  -__categoria
+  -__precio
+  -__stock
+  -__stock_minimo
+  +validar_codigo(codigo)
+  +desde_fila_csv(fila)
+  +descontar_stock(cantidad)
+  +reabastecer(cantidad)
+  +necesita_reabastecer()
+  +__str__()
+  +__repr__()
+}
+
+class Venta {
+  +fecha
+  +codigo
+  +nombre
+  +cantidad
+  +precio_unitario
+  +total
+  +crear(producto, cantidad)
+}
+
+class Inventario {
+  -__productos
+  +agregar(producto)
+  +obtener(codigo)
+  +buscar(termino)
+  +vender(codigo, cantidad)
+  +reabastecer(codigo, cantidad)
+  +ordenar_por_nombre()
+  +ordenar_por_precio()
+  +ordenar_por_stock()
+  +productos_bajos()
+  +__len__()
+  +__contains__(codigo)
+}
+
+class RepositorioCSV {
+  +cargar_inventario()
+  +guardar_inventario(productos)
+  +guardar_venta(venta)
+  +cargar_ventas()
+}
+
+class Bitacora {
+  +registrar(mensaje)
+}
+
+class ReporteVentas {
+  +ventas_del_dia(fecha)
+  +mostrar()
+}
+
+class SistemaInventario {
+  +ejecutar()
+}
+
+ReglaNegocio <|-- AlertaStock
+ReglaNegocio <|-- AlertaStockCritico
+Inventario "1" o-- "*" Producto
+Inventario ..> Venta : crea
+SistemaInventario *-- Inventario
+SistemaInventario *-- RepositorioCSV
+SistemaInventario *-- Bitacora
+SistemaInventario *-- ReporteVentas
+SistemaInventario ..> ReglaNegocio
+RepositorioCSV ..> Producto
+RepositorioCSV ..> Venta
+ReporteVentas ..> RepositorioCSV
+@enduml

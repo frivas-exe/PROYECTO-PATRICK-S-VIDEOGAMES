@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+actor "Usuario" as U
+rectangle "Patrick's VideoGames" {
+  usecase "Agregar producto" as UC1
+  usecase "Buscar producto" as UC2
+  usecase "Registrar venta" as UC3
+  usecase "Mostrar inventario" as UC4
+  usecase "Generar reporte de ventas" as UC5
+  usecase "Revisar stock mínimo" as UC6
+  usecase "Reabastecer producto" as UC7
+  usecase "Salir y guardar cambios" as UC8
+}
+U --> UC1
+U --> UC2
+U --> UC3
+U --> UC4
+U --> UC5
+U --> UC6
+U --> UC7
+U --> UC8
+@enduml

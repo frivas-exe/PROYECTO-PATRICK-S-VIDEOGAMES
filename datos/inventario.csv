@@ -1,0 +1,22 @@
+codigo,nombre,categoria,precio,stock,stock_minimo
+VG0001,PlayStation 5,Consolas,4500.0,12,2
+VG0002,Xbox Series X,Consolas,4200.0,4,2
+VG0003,Nintendo Switch OLED,Consolas,2800.0,6,2
+VG0004,God of War Ragnarok,Videojuegos,450.0,10,3
+VG0005,EA Sports FC 26,Videojuegos,550.0,8,3
+VG0006,Spider-Man 2,Videojuegos,400.0,22,3
+VG0007,Control DualSense,Accesorios,650.0,7,2
+VG0008,Auriculares Gamer,Accesorios,350.0,8,3
+VG0009,Teclado Mecanico RGB,Accesorios,500.0,4,2
+VG0010,Mouse Gamer RGB,Accesorios,250.0,5,3
+VG0011,Control Xbox,Accesorios,550.0,6,2
+VG0012,Control GameCube,Accesorios,620.0,8,3
+VG0013,GTA VI,Videojuegos,850.0,5,3
+VG0015,FC26,Videojuegos,560.0,9,3
+VG0017,Nintendo64,Consolas,1000.0,6,2
+VG0018,Control Wii,Accesorios,480.0,8,3
+VG0019,Mortal Kombat,Videojuegos,620.0,10,2
+VG0020,Atari,Consola,750.0,12,3
+VG0025,Rachet,Videojuegos,150.0,11,2
+VG0030,Gran Turismo,Videojuegos,350.0,8,2
+VG0036,MARIO BROS,Videojuegos,500.0,2,2

@@ -1,0 +1,1 @@
+digraph G { rankdir=LR; node [shape=box, style=rounded]; Usuario [shape=ellipse]; A [label="Agregar producto"]; B [label="Buscar producto"]; C [label="Registrar venta"]; D [label="Mostrar inventario"]; E [label="Generar reporte de ventas"]; F [label="Revisar stock mínimo"]; G [label="Reabastecer producto"]; H [label="Salir y guardar cambios"]; Usuario -> {A B C D E F G H}; }
