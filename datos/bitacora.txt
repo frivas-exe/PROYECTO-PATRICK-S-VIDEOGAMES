@@ -42,3 +42,5 @@
 2026-10-11 21:08:36 - Reabastecimiento: VG0001, unidades agregadas: 6
 2026-11-08 10:53:59 - Producto agregado: VG0036 - MARIO BROS
 2026-11-08 10:54:21 - Venta registrada: VG0036 - MARIO BROS - Cantidad: 8 - Total: Q4000.00
+2026-11-09 00:17:29 - Inventario consultado y ordenado
+2026-11-09 00:18:40 - Venta registrada: VG0036 - MARIO BROS - Cantidad: 2 - Total: Q1000.00
